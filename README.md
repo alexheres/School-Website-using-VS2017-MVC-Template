@@ -1,4 +1,8 @@
-# School-Website-using-VS2017-MVC-Template
+# School Website using VS2017 MVC Template
+
+This project uses the ASP.NET framework and an MVC 5 template provided by Visual Studios (2017) to create a website, specifically a generic website suitable for an academic insitution. 
+
+To help set up the project in Visual Studios, I followed this tutorial over at the Microsoft Docs: https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started
 
 # -------- Program and Functionalities ---------
 
